@@ -27,8 +27,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/logical05"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+<a href="https://www.ko-fi.com/logical05" rel="nofollow"><img src="https://camo.githubusercontent.com/8993a45baf48465bc724920cd2d508aefd24a278e5d1c4cfd8ba95ac8cb20163/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669322e706e673f763d33" width="150" data-canonical-src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" style="max-width: 100%;"></a>
